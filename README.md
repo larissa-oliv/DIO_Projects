@@ -1,2 +1,2 @@
 # DIO_Projects
-# Repositório para projetos da plataforma da DIO. 
+Repositório para projetos da plataforma da DIO. 
